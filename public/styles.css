@@ -1,0 +1,79 @@
+/* Add this CSS to your styles.css file */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+h2 {
+  margin-top: 10;
+  color: #4caf50;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+form {
+  display: inline-block;
+}
+
+/* Add this CSS to your styles.css file */
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+textarea {
+  width: 100%;
+  height: 200px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#editBtn {
+  background-color: #2233ee;
+  color: white;
+}
+
+#deleteBtn {
+  background-color: #ff0000;
+  color: white;
+}
